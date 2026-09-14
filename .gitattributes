@@ -1,0 +1,6 @@
+Dataset_add/*.csv filter=lfs diff=lfs merge=lfs -text
+final_semantic_resume_dataset.csv filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.index filter=lfs diff=lfs merge=lfs -text
+Unsupervised_pipeline/*.csv filter=lfs diff=lfs merge=lfs -text
+Framework/data/*.csv filter=lfs diff=lfs merge=lfs -text
